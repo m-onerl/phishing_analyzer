@@ -1,0 +1,17 @@
+README.md
+setup.py
+phishing_analyzer.egg-info/PKG-INFO
+phishing_analyzer.egg-info/SOURCES.txt
+phishing_analyzer.egg-info/dependency_links.txt
+phishing_analyzer.egg-info/top_level.txt
+src/__init__.py
+src/email_analyzer.py
+src/imap_client.py
+src/link_analyzer.py
+src/GUI/__init__.py
+src/GUI/gui.py
+tests/test_email_analyzer.py
+tests/test_functional.py
+tests/test_imap_client.py
+tests/test_integration.py
+tests/test_link_analyzer.py
